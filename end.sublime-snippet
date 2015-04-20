@@ -1,0 +1,6 @@
+<snippet>
+  <tabTrigger>end</tabTrigger>
+  <description>End Statement</description>
+  <content><![CDATA[<% end %>]]></content>
+  <scope>text.html.ruby</scope>
+</snippet>

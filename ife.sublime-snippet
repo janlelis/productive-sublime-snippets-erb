@@ -1,0 +1,10 @@
+<snippet>
+  <tabTrigger>ife</tabTrigger>
+  <description>If / Else Statement</description>
+  <content><![CDATA[<% if ${1:condition} %>
+  $1
+<% else %>
+	$0
+<% end %>]]></content>
+  <scope>text.html.ruby</scope>
+</snippet>

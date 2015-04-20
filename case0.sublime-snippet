@@ -1,0 +1,15 @@
+<snippet>
+  <tabTrigger>case0</tabTrigger>
+  <description>Case Statment (No Args)</description>
+  <content><![CDATA[<% case %>
+<% when ${1:condition} %>
+	$4
+<% when ${2:condition2} %>
+	$5
+<% when ${3:condition3} %>
+	$6
+<% else %>
+	$0
+<% end %>]]></content>
+  <scope>text.html.ruby</scope>
+</snippet>

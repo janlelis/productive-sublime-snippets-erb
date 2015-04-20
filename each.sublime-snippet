@@ -1,0 +1,8 @@
+<snippet>
+  <tabTrigger>each</tabTrigger>
+  <description>Each Iteration</description>
+  <content><![CDATA[<% ${1:enum}.each do |${2:element}| %>
+	$0
+<% end %>]]></content>
+  <scope>text.html.ruby</scope>
+</snippet>
