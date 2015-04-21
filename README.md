@@ -7,12 +7,13 @@
 
 ## Install
 
+- Search in Sublime's package control for "ProductiveSnippetsERB" OR
 - Clone into a directory in your Sublime Text Package/User folder
 - [Delete interfering snippets](https://www.sublimetext.com/forum/viewtopic.php?f=3&t=2679)
 
 ## Cheat Sheet
 
-See [CHEATSHEET.md](https://github.com/janlelis/productive-sublime-snippets-erb/blob/master/CHEATSHEET.md)
+- See [CHEATSHEET.md](https://github.com/janlelis/productive-sublime-snippets-erb/blob/master/CHEATSHEET.md)
 
 ## Also See
 
