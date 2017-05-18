@@ -1,7 +1,7 @@
 # Productive ERB Snippets Cheat Sheet
 
         Trigger | Description
-----------------|------------
+    ------------|------------
               % | <% %>
               = | <%= %>
            case | Case Statment
