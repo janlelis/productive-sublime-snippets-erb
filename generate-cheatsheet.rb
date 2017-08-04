@@ -10,9 +10,9 @@ Dir["*.sublime-snippet"].each{ |filename|
   snippets[xml.css('tabTrigger').text] = xml.css('description').text
 }
 
-puts <<-BANNER + snippets.sort.map{ |trigger, description| "% 15s | %s" % [trigger, description] }*"\n"
+puts <<-BANNER + snippets.sort.map{ |trigger, description| "|% 15s | % -25s|" % [trigger, description] }*"\n"
 # #{title}
 
-        Trigger | Description
-----------------|------------
+|        Trigger | Description              |
+|----------------|--------------------------|
 BANNER
